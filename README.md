@@ -91,3 +91,6 @@ The notebook includes plots such as:
 1. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn
+
+## Author
+Arpit Sharma
